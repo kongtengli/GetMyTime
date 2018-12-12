@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author likunpeng
+ *
+ */
+module GetMyTime {
+	
+}
